@@ -1,16 +1,6 @@
-# The Snowflake Project
+# The Data Science Project 
 
-This project covers some of the basics to advanced topics in Snowflake. This topics are  realted to `Data engineering`  and `Data Science` .
+In this project we will cover basics of data science ranging from statistics and probablity to Ml Algorithms.
+We will also cover topics realted to some datawarehouse tools that can be used in Data Science workloads mainly `snowflake` and `databricks`.
 
-In this repostory we will cover features of snowflake like:
-
-1. Snow-SQL
-
-2. Snowpark
-
-3. Snowpark - ML
-
-4. Snowflake Container Services 
-
-
-More to be update soon.
+Further stuff will be updated soon.
