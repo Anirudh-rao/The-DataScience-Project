@@ -6,4 +6,6 @@ In this section we will cover concepts related to Data engineering like
 
 2. Procedures, UDFS and Functions
 
-4. Automation of Data Engineering Workloads using Pipelines.
+3. Automation of Data Engineering Workloads using Pipelines.
+
+More on this section to be updated soon.

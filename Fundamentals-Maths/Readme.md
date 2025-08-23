@@ -1,6 +1,6 @@
 # Fundementals Maths
 
-In this section we will cover 
+In this section we will cover:
 
 1. Numpy
 
@@ -10,4 +10,4 @@ In this section we will cover
 
 4. Some Statisctical Models.
 
-More stuff to be updated soon
+More stuff to be updated soon.
